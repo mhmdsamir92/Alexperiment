@@ -113,22 +113,6 @@ The output of this service will be something like this::
 
 
 
-Tests
-------
-WIP
-
-
-Deployment
-----------
-
-WIP
-
-
-
-Docker
-^^^^^^
-
-WIP
 
 
 :License: MIT
